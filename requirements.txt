@@ -1,0 +1,13 @@
+# Telegram Bot Framework
+aiogram>=3.10.0
+
+# Yandex Cloud API (используем requests для HTTP запросов)
+requests>=2.31.0
+
+# Vector Database
+faiss-cpu>=1.7.4
+numpy>=1.24.3
+
+# Utilities
+python-dotenv>=1.0.0
+
